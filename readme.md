@@ -1,6 +1,6 @@
 # Indolent
 
-![Indolent logo](./logo.png)
+![Indolent logo](https://raw.githubusercontent.com/cedmax/indolent/master/logo.png)
 
 Indolent is an npm module that doesn't do anything, it just returns the first argument, unprocessed.
 

@@ -1,6 +1,6 @@
 {
   "name": "indolent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple npm module that always returns the input",
   "main": "index.js",
   "scripts": {
